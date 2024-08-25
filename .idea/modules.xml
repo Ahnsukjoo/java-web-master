@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-web-master.iml" filepath="$PROJECT_DIR$/java-web-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro05/pro05.iml" filepath="$PROJECT_DIR$/pro05/pro05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06/pro06.iml" filepath="$PROJECT_DIR$/pro06/pro06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webShop/webShop.iml" filepath="$PROJECT_DIR$/webShop/webShop.iml" />
+    </modules>
+  </component>
+</project>
